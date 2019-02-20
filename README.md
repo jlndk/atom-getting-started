@@ -40,7 +40,7 @@ Dette er selfølgelig en meget personlig ting, men jeg kan stadig komme med nogl
 * Northern Dark + Northern Dark Atom
 
 **Light themes:**
-* Jeg er ikke en scrub, men hvis i har nogle gode light themes kan i bare oprette en PR mig
+* Jeg er ikke en scrub, men hvis i har nogle gode light themes kan i bare oprette en PR
 
 ### CUSTOMIZATIONS:
 #### Keymap (custom shortcuts - kan tilgås ved File/Edit > Keymap):
